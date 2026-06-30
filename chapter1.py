@@ -14,7 +14,3 @@ print("You will be", str(int(age) + 1), "in a year.")
 print(float("33.5"), float(10))
 print(str(22), str("phai"))
 print(int(33.2), int("22"))
-
-# This Practice end of chapter
-
-print("Did you eat", str(90), "burritos?")
