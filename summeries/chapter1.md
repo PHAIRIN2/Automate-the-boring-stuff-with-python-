@@ -6,6 +6,7 @@
 - Math operators from Highest to Lowest Precedence (-, **, /, //, %, +, *).
 ## Practice Questions.
 [Questions 1](../images/ch1.1_practice.png)
-[Qiestions 2](../ch1.2_practice.png)
+[Qiestions 2](../images/ch1.2_practice.png)
+# AUSWERS
 
 
