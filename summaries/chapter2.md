@@ -8,4 +8,7 @@
 - While Loop Statements and also learned An annoying while loop
 - Break Statement and Continue Statement
 - Loop and the range() Function
-- Importing Modules: ramdom, sys( sys.exit() )                    
+- Importing Modules: ramdom, sys( sys.exit() )
+
+## Questions
+[Question](../imange/ch2.png)
