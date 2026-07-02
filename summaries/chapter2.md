@@ -11,4 +11,4 @@
 - Importing Modules: ramdom, sys( sys.exit() )
 
 ## Questions
-[Question](../imanges/ch2_practice.png)
+[Question](../images/ch2_practice.png)
