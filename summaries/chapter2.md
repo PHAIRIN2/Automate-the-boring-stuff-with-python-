@@ -49,9 +49,9 @@
 7.  - A condition is an expression that evaluates to a Boolean value, which is either          True or False.
     - I would use a condition in control flow statements, such as if statements or           while loops, to decide whether a specific block of code should be executed.
 8. Identify the three blocks in code:
-    1. if spem == 10:
-    2. if spam > 5:
-    3. else:
+    - if spem == 10:
+    - if spam > 5:
+    - else:
 9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in      spam, and prints Greetings! if anything else is stored in spam:
         if spem == 1:
            print("Hello")
