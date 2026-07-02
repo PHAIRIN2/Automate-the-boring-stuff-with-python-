@@ -12,3 +12,6 @@
 
 ## Questions
 [Question](../images/ch2_practice.png)
+
+## Answer
+
