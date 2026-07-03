@@ -5,8 +5,8 @@
 - Also used str(), int(), float() Functions.
 - Math operators from Highest to Lowest Precedence (-, **, /, //, %, +, *).
 ## QUESTIONS
-- [Questions 1](../images/ch1.1_practice.png)
-- [Questions 2](../images/ch1.2_practice.png)
+- [Questions 1](../images/ch1.1_Questions.png)
+- [Questions 2](../images/ch1.2_Questions.png)
 ### ANSWERS
 1. - operators: *, -, / and +
    - values: 'hello', 5 and -88.8
