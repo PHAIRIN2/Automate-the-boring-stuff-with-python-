@@ -11,7 +11,7 @@
 - Importing Modules: ramdom, sys( sys.exit() )
 
 ## QUESTIONS
-- [Question](../images/ch2_practice.png)
+- [Question](../images/ch2_Questions.png)
 
 ### ANSWERS
 1. Boolean data type has only two values: True and False.
