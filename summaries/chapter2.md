@@ -11,9 +11,9 @@
 - Importing Modules: ramdom, sys( sys.exit() )
 
 ## QUESTIONS
-[Question](../images/ch2_practice.png)
+- [Question](../images/ch2_practice.png)
 
-## ANSWERS
+### ANSWERS
 1. Boolean data type has only two values: True and False.
 2. the three Boolean operators: and, or and not.
 3. - The and Operator's Truth Table:
