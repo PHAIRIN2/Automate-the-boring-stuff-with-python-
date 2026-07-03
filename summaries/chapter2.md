@@ -53,13 +53,13 @@
     - if spam > 5:
     - else:
 9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in      spam, and prints Greetings! if anything else is stored in spam:
-     ```PYTHON
-        if spem == 1:
-            print("Hello")
-        fi spen == 2:
-            print("Howdy")
-        else:
-            print("Greetings!")
+ ```PYTHON
+      if spem == 1:
+           print("Hello")
+      fi spen == 2:
+           print("Howdy")
+      else
+           print("Greetings!")
         ```
 10. If my program is stuck in an infinite loop I can press Ctrl + c
 11. The difference between break and continue
@@ -70,15 +70,17 @@
     - range(0, 10): Takes two arguments (start, stop). It explicitly states to start at         0.
     - range(0, 10, 1): Takes three arguments (start, stop, step). It explicitly states       to start at 0 and increase by 1 on each iteration.
 13. Write a short program that prints the numbers 1 to 10 using a for loop. Then write       an equivalent program that prints the numbers 1 to 10 using a while loop.
-    for:
+ ```PYTHON   
+    # for:
          for i in range(1,11):
          print(i)
-    while:
+   # while:
          i = 1
          while i <= 10:
            print(i)
            i = i + 1
-14. I world cell: spem.bacon()         
+ ```
+15. I world cell: spem.bacon()         
 
    
     
