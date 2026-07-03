@@ -17,19 +17,19 @@
 1. Boolean data type has only two values: True and False.
 2. the three Boolean operators: and, or and not.
 3. - The and Operator's Truth Table:
-     True and True = True
-     True and False = False
-     False and True = False
-     False and False = False
+     - True and True = True
+     - True and False = False
+     - False and True = False
+     - False and False = False
   - The or Operator's Truth Table:
-     True or True = True
-     True  or False = True
-     False or True = true
-     False or False = False
+     - True or True = True
+     - True  or False = True
+     - False or True = true
+     - False or False = False
   - The not Operator's Truth Table:
-     not True = False
-     not False = True
-    The following expessions evaluate to:
+     - not True = False
+     - not False = True
+4. The following expessions evaluate to:
    - (5 > 4) and (3 == 5) -> False
    - not (5 > 4) or (3 == 5) -> False
    - not (5 > 4) -> False
