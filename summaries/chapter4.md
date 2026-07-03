@@ -10,7 +10,7 @@
 - References
 
 ## Projects
-- [Project 1](../Code/chapter4_practice_project.py)
+- [Project](../Code/chapter4_practice_project.py)
   
 ## Questions
 - [Qusetions](../images/ch4_Questions.png)
