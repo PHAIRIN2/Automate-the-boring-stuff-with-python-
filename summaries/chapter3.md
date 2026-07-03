@@ -13,8 +13,8 @@
 [Questions](../images/ch3.2_Questions.png)
 
 ## Project
-[Project 1: Practice Project](../Code/chapter3_practice_project.py)
-[Project 2: Random Project](../Code/chapter3_random_project.py)
+- [Project 1: Practice Project](../Code/chapter3_practice_project.py)
+- [Project 2: Random Project](../Code/chapter3_random_project.py)
 
 
 
