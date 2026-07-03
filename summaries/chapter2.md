@@ -53,14 +53,14 @@
     - if spam > 5:
     - else:
 9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in      spam, and prints Greetings! if anything else is stored in spam:
-     '''PYTHON
+     ```PYTHON
         if spem == 1:
             print("Hello")
         fi spen == 2:
             print("Howdy")
         else:
             print("Greetings!")
-        '''
+        ```
 10. If my program is stuck in an infinite loop I can press Ctrl + c
 11. The difference between break and continue
     - break immediately terminates the loop entirely and moves execution to the code           right after the loop.
