@@ -10,4 +10,6 @@
 - References
 
 ## Projects
-- [Project](../Code/chapter4_practice_project.py)
+### [Practic Project](../images/ch4_Practice_Projects.png)
+- [Project 1](../Code/chapter4_CommaCode_project.py)
+- [Project 2](../Code/chapter4_PictureGrid_project.py)
