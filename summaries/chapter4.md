@@ -10,4 +10,4 @@
 - References
 
 ## Projects
-- [Project](../Code/chapter4_practice_project.py
+- [Project](../Code/chapter4_practice_project.py)
