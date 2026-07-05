@@ -9,7 +9,7 @@
 - Exception Handing.
 - A Short program : Guess The number.
 
-## Project
+### [Practice Projects](../images/ch3.2_Practice_Projects.png)
 - [Project 1: Practice Project](../Code/chapter3_practice_project.py)
 - [Project 2: Random Project](../Code/chapter3_random_project.py)
   
