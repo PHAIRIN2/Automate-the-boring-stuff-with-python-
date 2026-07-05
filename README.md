@@ -5,5 +5,6 @@
 | Chapter 2: Flow Control. | [Summaries](summaries/chapter2.md) | [Code](Code/chapter2.py) | - | 1.7.2026 |
 | Chapter 3: Functions. | [Summaries](summaries/chapter3.md) | [Code](Code/chapter3.py) | - [Project 1](Code/chapter3_random_project.py) -  [Project 2](Code/chapter3_practice_project.py) | 2.7.2025 |
 | Chapter 4: Lists. | [Summaries](summaries/chapter4.md) | [Code](Code/chapter4.py) | - [Project 1](Code/chapter4_CommaCode_project.py)  - [Project 2](Code/chapter4_PictureGrid_project.py) | 3.7.2025 - 4.7.2025 |
+| Chapter 5: Dictionaries And Structure Data | [Summaries](Summaries/chapter5) | [Code](Code/chapter5.py) | - [Project 1](Code/chapter5_practice_project.py) - [Project 2](Code/chapter5_informaton_project.py) - [Project 3] (Code/chapter5_Tic-Tac-Toc-Board_project.py) | 5.7.2026 |
 
 
