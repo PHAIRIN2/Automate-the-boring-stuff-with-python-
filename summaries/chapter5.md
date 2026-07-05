@@ -1,1 +1,1 @@
-# chapter 5: Dictionary And Structuring Data
+# chapter 5: Dictionaries And Structuring Data
