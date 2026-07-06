@@ -10,7 +10,8 @@
   - A Tic-Tac-Toc Board [Project](../Code/chapter5_Tic-Tac-Toc-Board_project.py).
   - Nested Dictionaries and Lists [Project](../Code/chapter5_information_project.py).
 
-## [Practice Project 1](../imgaes/ch5.1_Practice_Project.png)    ## [Practice Project 2](../imges/ch5.2_Practice_Project.png) 
+[Practice Project 1](../imgaes/ch5.1_Practice_Project.png)    
+[Practice Project 2](../imges/ch5.2_Practice_Project.png) 
 [Project](chapter5_practice-project.py)
 
   
