@@ -10,4 +10,5 @@
 - Justifying Text With rjust(), ljust() and center().
 - Removing whitespase what strip(), rstrip() and lstrip() 
 - Copying and Pasting String with the pyperdip Module.
-- Project: p
+- Password Locker [Project](../Code/chapter6_Password-Locker-project.py)
+- Adding Bullets to Wiki Markup [Project](../Code/chapter6_
