@@ -1,3 +1,4 @@
+# get information
 allGuests = {
     "Alice": {"apples": 2, "pretzels": 2},
     "Bob": {"apples": 4, "water": 3},
