@@ -11,4 +11,6 @@
 - Removing whitespase what strip(), rstrip() and lstrip() 
 - Copying and Pasting String with the pyperdip Module.
 - Password Locker [Project](../Code/chapter6_Password-Locker-project.py)
-- Adding Bullets to Wiki Markup [Project](../Code/chapter6_
+- Adding Bullets to Wiki Markup [Project](../Code/chapter6_Password-Locker_project.py)
+
+
