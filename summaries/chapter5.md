@@ -11,6 +11,6 @@
   - Nested Dictionaries and Lists [Project](../Code/Projects/chapter5_information_project.py).
 
   ## - [Practice Project 1](../images/ch5.1_Practice_Project.png), - [Practice Project 2](../images/ch5.2_Practice_Project.png) 
-   - [Project](../Code/Project/chapter5_practice_project.py).
+   - [Project](../Code/Projects/chapter5_practice_project.py).
 
   
