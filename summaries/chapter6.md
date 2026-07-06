@@ -1,5 +1,5 @@
-## Chapter 6: Manipulating Structure.
+# Chapter 6: Manipulating Structure.
 
-### Summaries What I Learn In This Chapter.
+## Summaries What I Learn In This Chapter.
 
 
