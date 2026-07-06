@@ -11,5 +11,5 @@
 - Functions: list(), tuble(), copy(), deepcopy(), append(), remove() and del
 
 ### [Practic Project](../images/ch4_Practice_Projects.png)
-- [Project 1](../Code/chapter4_CommaCode_project.py)
-- [Project 2](../Code/chapter4_PictureGrid_project.py)
+- [Project 1](../Code/Projects/chapter4_CommaCode_project.py)
+- [Project 2](../Code/Projects/chapter4_PictureGrid_project.py)
