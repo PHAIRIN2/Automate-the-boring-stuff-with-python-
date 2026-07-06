@@ -10,8 +10,8 @@
 - A Short program : Guess The number.
 
 ### [Practice Projects](../images/ch3.2_Practice_Projects.png)
-- [Project 1: Practice Project](../Code/chapter3_practice_project.py)
-- [Project 2: Random Project](../Code/chapter3_random_project.py)
+- [Project 1: Practice Project](../Code/Projects/chapter3_practice_project.py)
+- [Project 2: Random Project](../Code/Projects/chapter3_random_project.py)
   
 ## Questions
 - [Questions](../images/ch3.2_Questions.png)
