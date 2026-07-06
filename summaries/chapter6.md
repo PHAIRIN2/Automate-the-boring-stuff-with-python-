@@ -14,6 +14,6 @@
 - Adding Bullets to Wiki Markup [Project](../Code/chapter6_Password-Locker_project.py)
 
 ## [Practice Project](../images/ch6_Practice_Project.png)
-- [Project](../Code/chapter6_Password-Locker_project.py)
+- [Project](../Code/chapter6_practice_project.py)
 
 
