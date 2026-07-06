@@ -2,4 +2,12 @@
 
 ## Summaries What I Learn In This Chapter.
 
-
+- Working with string.
+- Useful string methods.
+- The upper(), lower(),isupper(), islower() and The isX() String Methods.
+- The starstwith() and endswith() String Methods.
+- The join() and split() String Methods
+- Justifying Text With rjust(), ljust() and center().
+- Removing whitespase what strip(), rstrip() and lstrip() 
+- Copying and Pasting String with the pyperdip Module.
+- Project: p
