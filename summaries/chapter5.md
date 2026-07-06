@@ -7,10 +7,10 @@
   - the setdefauth() Methou.
 - Pretty Printing.
 - Using Data Structure To Model Real-world things
-  - A Tic-Tac-Toc Board [Project](chapter5_Tic-Tac-Toc-Board_project.py).
-  - Nested Dictionaries and Lists [Project](chapter5_information_project.py).
+  - A Tic-Tac-Toc Board [Project](../Code/chapter5_Tic-Tac-Toc-Board_project.py).
+  - Nested Dictionaries and Lists [Project](../Code/chapter5_information_project.py).
 
-## Practice Project.
+## [Practice Project](../imgaes/ch5.1_Practice_Project.png)(../imges/ch5.2_Practice_Project.png) 
 [Project](chapter5_practice-project.py)
 
   
