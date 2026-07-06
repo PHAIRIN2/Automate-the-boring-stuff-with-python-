@@ -13,4 +13,7 @@
 - Password Locker [Project](../Code/chapter6_Password-Locker-project.py)
 - Adding Bullets to Wiki Markup [Project](../Code/chapter6_Password-Locker_project.py)
 
+## [Practice Project](../images/ch6_Practice_Project.png)
+- [Project](../Code/chapter6_Password-Locker_project.py)
+
 
