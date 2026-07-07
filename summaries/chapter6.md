@@ -8,7 +8,7 @@
 - The starstwith() and endswith() String Methods.
 - The join() and split() String Methods
 - Justifying Text With rjust(), ljust() and center().
-- Removing whitespase what strip(), rstrip() and lstrip() 
+- Removing whitespase whit strip(), rstrip() and lstrip() 
 - Copying and Pasting String with the pyperdip Module.
 - Password Locker [Project](../Code/Projects/chapter6_Password-Locker_project.py)
 - Adding Bullets to Wiki Markup [Project](../Code/Projects/chapter6_Password-Locker_project.py)
