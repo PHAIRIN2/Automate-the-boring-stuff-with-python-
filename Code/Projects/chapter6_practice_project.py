@@ -1,6 +1,3 @@
-
-
-
 tableData = [
     ["apples", "oranges", "cherries", "banana"],
     ["Alice", "Bob", "Carol", "David"],
@@ -17,7 +14,7 @@ def printTable(tableData):
 
     for rowIndex in range(len(tableData[0])):
         for colIndex in range(len(tableData)):
-            print(tableData[colIndex][rowIndex].rjust(colWidths[colIndex]), end= " ")
+            print(tableData[colIndex][rowIndex].rjust(colWidths[colIndex]), end=" ")
         print()
 
 
