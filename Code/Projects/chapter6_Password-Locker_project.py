@@ -1,10 +1,13 @@
 #! python3
 
-PASSWORD = {"program": "fjfjfjfjfjfjfjfjjfj",
-            "newprogram": "jfjfjfjfjfjfjfj",
-            "oldprogram":"cn;adjfejewpo"}
+PASSWORD = {
+    "program": "fjfjfjfjfjfjfjfjjfj",
+    "newprogram": "jfjfjfjfjfjfjfj",
+    "oldprogram": "cn;adjfejewpo",
+}
 
 import sys, pyperclip
+
 if len(sys.argv) < 2:
     print("Using: py pw.py [account] - copy account password")
     sys.exit()
