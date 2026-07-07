@@ -14,6 +14,6 @@
 
 
 ## [Project](../images/ch7_Practice_Project.png)
-- [Project](../Code/Projects/chapter7_Password-Detaction_project.py)
+- [Project](../Code/Projects/chapter7_Strong-Password-Detaction_project.py)
 
 
