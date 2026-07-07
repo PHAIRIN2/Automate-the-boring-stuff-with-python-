@@ -10,7 +10,7 @@
 - Ther Caret and Dollor Sing Characters.
 - The Wildcard Characters.
 - Substituting string with the sub() Method.
-- Phone Number and Email Address Extractor [Project](../Code/Project/chapter7_PhoneAndEmail_project.py)
+- Phone Number and Email Address Extractor [Project](../Code/Projects/chapter7_PhoneAndEmail_project.py)
 
 
 ## [Project](../images/ch7_Practice_Project.png)
