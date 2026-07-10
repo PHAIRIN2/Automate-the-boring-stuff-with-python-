@@ -11,7 +11,7 @@
 - MuticlipBoard: [Project](../Code/Projects/chapter8_project2.py)
 
 ## [Projects](../images/ch8_Practice_Projects.png)
-- [Project 1](../Code/Projcets/chapter8_practice_project1.py)
+- [Project 1](../Code/Projects/chapter8_practice_project1.py)
 - [Project 2](../Code/Projects/chapter8_practice_project2.py)
 - [Project 3](../Code/Projects/chapter8_practice_project3.py)
   
