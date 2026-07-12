@@ -14,4 +14,4 @@
 
 - [Project 1](../Code/Projects/chapter9_practice_project1.py)
 - [Project 2](../Code/Projects/chapter9_practice_project2.py)
-- [Project 3](../Code/Projects/chapter9_pracitice_project3.py)
+- [Project 3](../Code/Projects/chapter9_practice_project3.py)
