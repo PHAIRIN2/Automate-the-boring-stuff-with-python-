@@ -10,7 +10,7 @@
 - Renaming Files with American-Style Dates to European-Style Dates [Project](../Code/Projects/chapter9_project1.py)
 - Backing Up a Folder into a ZIP File [Project](../Code/Projects/chapter9_project2.py)
 
-## [Projects](../images/ch9_Practice_Projects.py)
+## [Projects](../images/ch9_Practice_Projects.png)
 
 - [Project 1](../Code/Projects/chapter9_practice_project1.py)
 - [Project 2](../Code/Projects/chapter9_practice_project2.py)
