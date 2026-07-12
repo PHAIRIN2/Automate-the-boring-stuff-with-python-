@@ -6,9 +6,9 @@ prefix = "spam"
 
 pattern = re.compile(r"^(%s)(\d+)(\.txt)$" % prefix)
 files = []
- 
+
 print("Files in folder:")
-for  filename in os.listdir(folder):
+for filename in os.listdir(folder):
     print("->", filename)
     mo = pattern.match(filename)
     if mo:
